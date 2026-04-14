@@ -1,4 +1,4 @@
-projet windows core 
+Bonjour je m'apelle Nicolas et je vais vous présenter mon projet windows core 
 
 Ce proejt va ce concentré sur comment intégré un rockylinux sur un domaine AD core w2022 qui fera égalment office de serveur dhcp et dns pour notre rocky
 
@@ -26,5 +26,8 @@ Install-WindowsFeature DHCP -IncludeManagementTools
 
 <img width="803" height="222" alt="image" src="https://github.com/user-attachments/assets/21d1afef-42b2-4a7a-8630-6b2d4b900072" />
 
-
+#Créer la zone DNS (ex: lab.local)
+Add-DnsServerPrimaryZone -Name "lab.local" -ZoneFile "lab.local.dns"
+#Ajouter un enregistrement A pour le serveur lui-même
+Add-DnsServerResourceRecordA -Name "win-core" -ZoneName "lab.local" -IPv4Address 192.168.1.10
 
