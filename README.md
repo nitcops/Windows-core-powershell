@@ -30,7 +30,9 @@ Install-WindowsFeature DHCP -IncludeManagementTools
 Add-DnsServerPrimaryZone -Name "lab.local" -ZoneFile "lab.local.dns"
 #Ajouter un enregistrement A pour le serveur lui-même
 Add-DnsServerResourceRecordA -Name "win-core" -ZoneName "lab.local" -IPv4Address 192.168.1.10
+
 #Pour vérifier les résultat
+
 <img width="807" height="221" alt="image" src="https://github.com/user-attachments/assets/8d47dc2d-05b0-4388-86b8-8bc4d17e9d58" />
 
 <img width="807" height="487" alt="image" src="https://github.com/user-attachments/assets/c3218fd6-d00b-461e-90c1-6e3c0531659e" />
