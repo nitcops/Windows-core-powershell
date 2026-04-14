@@ -26,3 +26,5 @@ Install-WindowsFeature DHCP -IncludeManagementTools
 
 <img width="803" height="222" alt="image" src="https://github.com/user-attachments/assets/21d1afef-42b2-4a7a-8630-6b2d4b900072" />
 
+
+
