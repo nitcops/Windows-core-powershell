@@ -38,5 +38,6 @@ Add-DnsServerResourceRecordA -Name "win-core" -ZoneName "lab.local" -IPv4Address
 <img width="807" height="487" alt="image" src="https://github.com/user-attachments/assets/c3218fd6-d00b-461e-90c1-6e3c0531659e" />
 
 ou avec nslookup
+
 <img width="671" height="136" alt="image" src="https://github.com/user-attachments/assets/a9d75ce3-37fe-4e02-9845-8067e74d1fc4" />
 
