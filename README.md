@@ -2,6 +2,11 @@ Bonjour je m'apelle Nicolas et je vais vous présenter mon projet windows core
 
 Ce proejt va ce concentré sur comment intégré un rockylinux sur un domaine AD core w2022 qui fera égalment office de serveur dhcp et dns pour notre rocky
 
+voici notre schéma réseau même si en pratique les client et les serveur ne devrai pas être dans le même sous réseaux/VLAN ici nous allons simplifié pour évité de que le sujet soit trop long
+
+<img width="435" height="296" alt="image" src="https://github.com/user-attachments/assets/d0f2b2ab-5b3f-4a6d-ba76-18981df663e8" />
+
+
 une fois installer voici notre interface d'accueil
 
 <img width="980" height="523" alt="image" src="https://github.com/user-attachments/assets/aa27f546-5022-4b34-bf4c-23a47c2e0cd4" />
