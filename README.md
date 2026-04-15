@@ -7,7 +7,7 @@ voici notre schéma réseau même si en pratique les client et les serveur ne de
 <img width="435" height="296" alt="image" src="https://github.com/user-attachments/assets/d0f2b2ab-5b3f-4a6d-ba76-18981df663e8" />
 
 
-une fois installer voici notre interface d'accueil
+une fois notre w2022 installer voici notre interface d'accueil
 
 <img width="980" height="523" alt="image" src="https://github.com/user-attachments/assets/aa27f546-5022-4b34-bf4c-23a47c2e0cd4" />
 
