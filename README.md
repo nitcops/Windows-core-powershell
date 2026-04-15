@@ -74,4 +74,9 @@ Promouvoir les serveur en DC
 
 <img width="819" height="482" alt="image" src="https://github.com/user-attachments/assets/8911c6a6-4670-4668-9193-d88fd031d455" />
 
+ensuite il va falloir crée un utilisateur pour notre rocky sur notre AD pour cela d'abord crée la variable contenant le mots de passe puis la commande New-ADUser
+
+<img width="814" height="92" alt="image" src="https://github.com/user-attachments/assets/be0678e2-1b2b-4df8-8256-6d1d9cf68769" />
+
+
 
