@@ -61,5 +61,12 @@ on peu aussi voir quelle récupére le dns
 
 <img width="439" height="136" alt="image" src="https://github.com/user-attachments/assets/ba297ae6-ec5b-4a9f-9551-354200ee3fbb" />
 
+passont à l'installation de l'active directory 
+
+<img width="816" height="145" alt="image" src="https://github.com/user-attachments/assets/55f8a1a8-a06d-4aff-bf93-de650928bbd7" />
+
+Promouvoir les serveur en DC
+
+<img width="819" height="482" alt="image" src="https://github.com/user-attachments/assets/8911c6a6-4670-4668-9193-d88fd031d455" />
 
 
