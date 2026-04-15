@@ -53,5 +53,10 @@ Pour définir une etendu DHCP mes client recevrons donc une ip dans l'intervalle
 
 <img width="816" height="53" alt="image" src="https://github.com/user-attachments/assets/0e51f4c8-3d24-4aa4-b374-4ce95880b60f" />
 
+on peut déjà voir que la 2eme carte réseaux sur mon rocky récupére la premiére ip du bail dhcp
+<img width="806" height="155" alt="image" src="https://github.com/user-attachments/assets/269a3076-6126-4929-8f6a-3ba7913b4280" />
+on peu aussi voir quelle récupére le dns 
+<img width="439" height="136" alt="image" src="https://github.com/user-attachments/assets/ba297ae6-ec5b-4a9f-9551-354200ee3fbb" />
+
 
 
