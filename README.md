@@ -22,13 +22,17 @@ puis 1 pour configuré les paramétre réseaux
 
 # Installation DNS et DHCP powershell
 Install-WindowsFeature DNS -IncludeManagementTools
+
 Install-WindowsFeature DHCP -IncludeManagementTools
 
 <img width="803" height="222" alt="image" src="https://github.com/user-attachments/assets/21d1afef-42b2-4a7a-8630-6b2d4b900072" />
 
 #Créer la zone DNS (ex: lab.local)
-Add-DnsServerPrimaryZone -Name "lab.local" -ZoneFile "lab.local.dns" \t
+
+Add-DnsServerPrimaryZone -Name "lab.local" -ZoneFile "lab.local.dns" 
+
 #Ajouter un enregistrement A pour le serveur lui-même
+
 Add-DnsServerResourceRecordA -Name "win-core" -ZoneName "lab.local" -IPv4Address 192.168.1.10
 
 #Pour vérifier les résultat
@@ -40,4 +44,14 @@ Add-DnsServerResourceRecordA -Name "win-core" -ZoneName "lab.local" -IPv4Address
 ou avec nslookup
 
 <img width="671" height="136" alt="image" src="https://github.com/user-attachments/assets/a9d75ce3-37fe-4e02-9845-8067e74d1fc4" />
+
+Pour définir une etendu DHCP mes client recevrons donc une ip dans l'intervalle .50 > .100
+
+<img width="818" height="50" alt="image" src="https://github.com/user-attachments/assets/6dbe1a1c-31bb-43bb-923b-4e4502fe11ed" />
+
+#2. Définir le DNS que les clients recevront (l'IP de ton Windows Core)
+
+<img width="816" height="53" alt="image" src="https://github.com/user-attachments/assets/0e51f4c8-3d24-4aa4-b374-4ce95880b60f" />
+
+
 
