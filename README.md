@@ -1,8 +1,16 @@
+# Projet : Configuration d'un serveur Windows Server 2022 Core. Configuration des services Active Directory et DHCP pour un client Rocky Linux.
+
 Bonjour je m'apelle Nicolas et je vais vous présenter mon projet windows core 
 
 Ce proejt va ce concentré sur comment intégré un rockylinux sur un domaine AD core w2022 qui fera égalment office de serveur dhcp et dns pour notre rocky
 
 voici notre schéma réseau même si en pratique les client et les serveur ne devrai pas être dans le même sous réseaux/VLAN ici nous allons simplifié pour évité de que le sujet soit trop long
+
+théoriquement il devrai ressemblé à ça
+
+<img width="931" height="465" alt="image" src="https://github.com/user-attachments/assets/7a802432-125e-40ee-8fbc-2b065d6b4a59" />
+
+schéma simplifié pour le lab il sera comme ceci
 
 <img width="435" height="296" alt="image" src="https://github.com/user-attachments/assets/d0f2b2ab-5b3f-4a6d-ba76-18981df663e8" />
 
