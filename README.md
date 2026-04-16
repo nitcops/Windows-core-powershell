@@ -2,6 +2,10 @@
 
 Technologies utilisées : (Windows Server 2022 Core, Rocky Linux, DHCP, DNS, Powershell).
 
+vous pouvez accéder aux tuto complet avec toute les capture d'écran ici, Lien vers le guide détaillé : https://github.com/nitcops/Windows-core-powershell/blob/main/Screenshot%20tuto.md
+
+le script Powershell est ici : https://github.com/nitcops/Windows-core-powershell/blob/main/script%20powershell
+
 Bonjour je m'apelle Nicolas et je vais vous présenter mon projet 
 
 Ce proejt va ce concentré sur comment intégré un rockylinux sur un domaine AD core w2022 qui fera égalment office de serveur dhcp et dns pour notre rocky
