@@ -8,7 +8,7 @@ voici notre schéma réseau même si en pratique les client et les serveur ne de
 
 théoriquement il devrai ressemblé à ça
 
-<img width="931" height="465" alt="image" src="https://github.com/user-attachments/assets/7a802432-125e-40ee-8fbc-2b065d6b4a59" />
+<img width="945" height="442" alt="image" src="https://github.com/user-attachments/assets/20de7b32-7124-4812-9e8e-fc79fa3c0e60" />
 
 schéma simplifié pour le lab il sera comme ceci
 
