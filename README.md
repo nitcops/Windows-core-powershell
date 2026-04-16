@@ -18,7 +18,7 @@ théoriquement il devrai ressemblé à ça
 
 schéma simplifié pour le lab il sera comme ceci
 
-<img width="435" height="296" alt="image" src="https://github.com/user-attachments/assets/d0f2b2ab-5b3f-4a6d-ba76-18981df663e8" />
+<img width="530" height="304" alt="image" src="https://github.com/user-attachments/assets/06923a21-cff5-4575-8549-340dba7eadb0" />
 
 
 une fois notre w2022 installer voici notre interface d'accueil
