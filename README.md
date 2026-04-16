@@ -1,6 +1,8 @@
 # Projet : Configuration d'un serveur Windows Server 2022 Core. Configuration des services Active Directory et DHCP pour un client Rocky Linux.
 
-Bonjour je m'apelle Nicolas et je vais vous présenter mon projet windows core 
+Technologies utilisées : (Windows Server 2022 Core, Rocky Linux, DHCP, DNS, Powershell).
+
+Bonjour je m'apelle Nicolas et je vais vous présenter mon projet 
 
 Ce proejt va ce concentré sur comment intégré un rockylinux sur un domaine AD core w2022 qui fera égalment office de serveur dhcp et dns pour notre rocky
 
